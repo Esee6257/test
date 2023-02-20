@@ -87,16 +87,17 @@ body {
 /************************************************************************/
 .bottom-container {
 
+    background-color: aqua;
 
     
 }
 
-.githubh3 {
-    padding: 20px;
+.githubh3{
+    position:relative;
     transition: background-image 0.3s ease-in-out;
-
 }
 
 .githubh3:hover {
-    background-image:url(images\github-mark-white.png);
-}
+    margin: 5%;
+    background-image: url('images/github-mark.png');
+  }
