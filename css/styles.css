@@ -1,0 +1,102 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/************************************************************************/
+.top-container {
+    background-color: #f1faee;
+    height: 90vh;
+    width: 100%;
+
+}
+
+.eseee {
+    top:20%;
+    position: relative;
+    margin: 0 auto 0 auto;
+    font-size: 30px;
+}
+
+
+
+.esee {
+    top:20%;
+    position: relative;
+    margin: 0 auto 0 auto;
+    font-size: 60px;
+}
+
+
+.mountain {
+    left: 30%;
+    right: 30%;
+    bottom: 10%;
+    position: absolute;
+    width: 45%;
+    height: 60%;
+}
+
+.cloud {
+    left: 20%;
+    top: 40%;
+    position:absolute
+
+}
+
+.cloud2 {
+    
+    right: 25%;
+    top: 15%;
+    position:absolute
+
+}
+
+/************************************************************************/
+
+.middle-container{
+
+
+
+}
+
+
+.gif {
+    width: 30%;
+    height: 40vh;
+
+}
+
+.profile {
+    margin-top: 5%;
+
+}
+
+
+.image1 {
+    
+    height: 50vh;
+    width: 25%;
+
+}
+
+
+
+/************************************************************************/
+.bottom-container {
+
+
+    
+}
+
+.githubh3 {
+    padding: 20px;
+    transition: background-image 0.3s ease-in-out;
+
+}
+
+.githubh3:hover {
+    background-image:url(images\github-mark-white.png);
+}
